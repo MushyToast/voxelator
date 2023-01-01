@@ -1,5 +1,5 @@
 --[[
-Random voxel generator, made by MushyToast
+Random voxel generator, made by MushyToast, updated by UziDesu
 set the mx-my values to accomadate your workspace, change the max variable to how many voxels MAX
 Put this script inside ServerScriptService, put a part called 'voxel' in the dimensions that you want the voxel in ServerStorage
 Finally, put a folder called 'voxels' in workspace, this is where all voxels go.
